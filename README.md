@@ -1,4 +1,4 @@
-# Exercise5: Hero Animation
+# Hero Animation
 
 A Flutter project to showcase Hero Animation, following the official tutotial:
 

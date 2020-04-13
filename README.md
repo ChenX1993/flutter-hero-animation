@@ -16,8 +16,8 @@ A Flutter project to showcase Hero Animation, following the official tutotial:
 
 1. Start
    
-   < img src="/screenshots/before.png" height="400" width="200" />
+   <img src="/screenshots/before.png" height="400" width="200" />
 
 2. End
    
-   < img src="/screenshots/after.png" height="400" width="200" />
+   <img src="/screenshots/after.png" height="400" width="200" />
